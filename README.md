@@ -7,7 +7,7 @@ Wikipedia Contributors (2020) Luhn Algorithm [Online]. Wikipedia. Available from
 ### Usage
 ```bash
 git clone https://github.com/samhaxr/luhn
-bash luh.sh 357503040704274911198
+bash luhn.sh 357503040704274911198
 ```
 ### Screenshot
 ![luhn](/script.png)
